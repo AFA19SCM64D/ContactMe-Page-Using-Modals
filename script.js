@@ -1,4 +1,4 @@
-'use strict';
+'use strict';   //always used to ensure secure code
 
 const modalOne = document.querySelector(".modal-one");
 const modalTwo = document.querySelector(".modal-two");
